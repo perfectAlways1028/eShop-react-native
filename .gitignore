@@ -1,0 +1,6 @@
+android/app/build
+android/.gradle
+android/.idea
+android/build
+android/keystores
+package-lock.json
